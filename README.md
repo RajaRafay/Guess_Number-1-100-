@@ -1,4 +1,4 @@
-# Guess_Number-1-100-
-You have to Guess number between 1 to 100.
-Also, computer will also tell you to enter higher or lower number that you entered.
-At the last, your attempts have been shown that in how many attempts you guessed the right number.
+# Guess_Number_1-100
+You have to guess a number between 1 and 100.
+Also, the computer will tell you to enter a higher or a lower number than you entered.
+At last, your attempts have been displayed that after how many attempts you guessed the right number.
